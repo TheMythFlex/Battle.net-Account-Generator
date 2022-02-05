@@ -25,7 +25,7 @@
 <!-- BLOG-POST-LIST:START -->
 - 30 Days $35
 - 7 Days $20
-- 1 Day $10  
+- 1 Day $5  
   
 ---
   
