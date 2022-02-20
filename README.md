@@ -15,7 +15,7 @@
 - multiple Threads 
 - Proxy Support
 - 20 accounts in 5 min running 10 threads  
-- Saves Accounts to a txt file  
+- Saves Account's to a txt file  
 <!-- BLOG-POST-LIST:END -->
   
 ---
