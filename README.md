@@ -33,9 +33,9 @@
   
 Bulit in Anti-Debugger With Source Code
   
-## [Tool Showcase Video](https://youtu.be/D-d4vOJSOCc)   
+## [Tool Showcase Video](https://www.youtube.com/watch?v=w1GX4VTilyc)   
  
-![alt text](https://cdn.discordapp.com/attachments/899424300120027216/939546886103244840/b.net.png)  
+![alt text](https://cdn.discordapp.com/attachments/899424300120027216/947602918540967936/blizzy_gen_.png)  
 
   
   
