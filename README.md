@@ -12,6 +12,14 @@
 - Fully customizable  
 - Auto Captcha 
 - Auto Sms 
+- Custom Name
+- Custom Password  
+- Email length prefix
+- Password length prefix
+- Random password
+- Headless Mode 
+- Captcha Timeout-limit
+- custom Secrect question 
 - multiple Threads 
 - Proxy Support
 - 20 accounts in 5 min running 10 threads  
@@ -23,10 +31,8 @@
 <h4> 🔑 Keys <h4>
   
 <!-- BLOG-POST-LIST:START -->
-- 30 Days $35
-- 7 Days $20
-- 1 Day $5  
-  
+- Lifetime $20
+   
 ---
   
 <h4> For Developers <h4> 
