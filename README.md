@@ -1,6 +1,6 @@
 # Battle.net-Account-Generator
 
-<h4> Source Code For Sale $250 <h4>
+<h4> Source Code For Sale $175 <h4>
   contact me on discord : Flex#8629
   
 ---  
