@@ -1,9 +1,27 @@
-2Captcha_Key: KEY HERE
-Captcha_Timeout:300
-Email_Domain:flextools@gmail.com
-password:123456qwer
-5sim_Api_Key:Key Here 
-5sim_operator:virtual27
-Threads:10
-Secret_Question:flextools
-Create_Accounts:10
+
+{
+  "Account Settings": "Blizzard",
+  "EmailSuffix": "flextools@gmail.com",
+  "password": "Random",
+  "CustomUsername": "TheMythFlex",
+  "RandomEmailLength": "12",
+  "RandomPassLength": "12",
+  "SecretQuestion": "FlexTools",
+  "5Sim": "Settings",
+  "5Sim_operator": "virtual27",
+  "5Sim_Api_Key": "Key here",
+  "5Sim_Timeout": "10",
+  "2Captcha": "Settings",
+  "2Captcha_Api_Key": "Key here",
+  "2Captcha_Timeout": "15",
+  "Blizzy Gen": "Settings",
+  "licenseKey": "license here",
+  "Threads": "5",
+  "Headless {Buggy}": "Flase",
+  "Use_Proxies": "True",
+  "TotalAccounts": "500",
+  "Notifications": "True",
+  "ConsoleUiColor [magenta, blue, red, cyan]": "cyan"
+}
+
+
